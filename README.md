@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil da Amanda Prates 😁
 
  <div>
-   <a href="https://github.com/amanda-prattes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-prattes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-prattes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/amandaprates-web">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaprates-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprates-web&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
